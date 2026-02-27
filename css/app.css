@@ -8,3 +8,12 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+h1 {
+    background-color: #2ecc71; 
+    color: white;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
